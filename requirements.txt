@@ -1,0 +1,25 @@
+contourpy==1.0.7
+cycler==0.11.0
+fonttools==4.39.4
+kiwisolver==1.4.4
+matplotlib==3.7.1
+mysqlclient==2.1.1 # for msqldb
+numpy==1.24.3
+packaging==23.1
+pandas==2.0.2
+Pillow==9.5.0
+psycopg2==2.9.6
+pyparsing==3.0.9
+python-dateutil==2.8.2
+pytz==2023.3
+scipy==1.10.1
+six==1.16.0
+tzdata==2023.3
+urllib3==2.0.2 
+
+"""
+urllib an in-built package in python that is used without 
+pip installing, while  urllib2 module is part of the Python 2.x standard library, 
+and its functionality is merged into the urllib.request in python3.x
+"""
+
